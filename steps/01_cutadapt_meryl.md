@@ -29,9 +29,6 @@ Reads containing adapter sequences were completely discarded
 (not just trimmed) because they represent chimeric molecules 
 that would cause errors in assembly.
 
-### Screenshot
-![Cutadapt report](../images/cutadapt_report.png)
-
 ---
 
 ## Part B — K-mer Counting (Meryl)
