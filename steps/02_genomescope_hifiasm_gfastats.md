@@ -69,7 +69,7 @@ nucleus. This allows hifiasm to correctly assign reads to each
 parental haplotype, reducing switch errors.
 
 ### Screenshot
-![hifiasm outputs in history](../images/hifiasm_outputs.png)
+![hifiasm outputs in history](../images/hifi_collection.png)
 
 ---
 
