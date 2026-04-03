@@ -37,7 +37,7 @@ This is consistent with a diploid genome at 50x coverage.
 
 ### Screenshots
 ![GenomeScope linear plot](../images/genomescope_linear.png)
-![GenomeScope summary](../images/genomescope_summary.png)
+![GenomeScope summary](../images/gegenomescope_summary.png)
 
 ---
 
