@@ -73,4 +73,4 @@ K-mer size 31 is long enough that most k-mers are unique in
 the genome, but short enough to tolerate sequencing errors.
 
 ### Screenshot
-![Meryl histogram preview](../images/meryl_histogram.png)
+![Meryl histogram preview](../images/meryl_histogram_preview.png)
