@@ -45,8 +45,6 @@ good assembly contiguity.
 assembly captures most of the gene space. Low duplication 
 confirms Hi-C phasing correctly separated the two haplotypes.
 
-![BUSCO results](../images/busco_hap1.png)
-
 ---
 
 ## 4. Merqury Quality Assessment
