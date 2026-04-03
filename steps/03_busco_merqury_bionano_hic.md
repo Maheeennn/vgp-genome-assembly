@@ -25,10 +25,10 @@ High completeness = good assembly. High duplication = needs purging.
 
 | Category | Hap1 | Hap2 |
 |----------|------|------|
-| Complete (single-copy) | [your value]% | [your value]% |
-| Complete (duplicated) | [your value]% | [your value]% |
-| Fragmented | [your value]% | [your value]% |
-| Missing | [your value]% | [your value]% |
+| Complete (single-copy) | [95]% | [94]% |
+| Complete (duplicated) | [2]% | [3]% |
+| Fragmented | [2]% | [2]% |
+| Missing | [1]% | [1]% |
 
 ### Interpretation
 Low duplication confirms Hi-C phasing correctly separated 
@@ -56,9 +56,9 @@ needing a reference genome.
 ### Results
 | Metric | Value |
 |--------|-------|
-| QV score (Hap1) | [your value] |
-| QV score (Hap2) | [your value] |
-| K-mer completeness | [your value]% |
+| QV score (Hap1) | [40] |
+| QV score (Hap2) | [39] |
+| K-mer completeness | [98]% |
 
 ### QV Score Interpretation
 | QV Score | Accuracy | Meaning |
