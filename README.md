@@ -1,6 +1,5 @@
 # VGP Genome Assembly Pipeline
-
-**Organism:** *Saccharomyces cerevisiae* S288C  
+ 
 **Platform:** Galaxy (usegalaxy.org)  
 **Tutorial:** [VGP Genome Assembly — Galaxy Training Network](https://training.galaxyproject.org/training-material/topics/assembly/tutorials/vgp_genome_assembly/tutorial.html)
 
