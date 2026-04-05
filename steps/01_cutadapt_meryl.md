@@ -24,10 +24,13 @@ DNA molecules and must be removed entirely before assembly.
 | Search reverse complement | Yes | Check both strands |
 | Discard trimmed reads | Yes | Remove entire read if adapter found |
 
-### Output Description
-Reads containing adapter sequences were completely discarded 
-(not just trimmed) because they represent chimeric molecules 
-that would cause errors in assembly.
+## Cutadapt Output
+
+Cutadapt was run on all 3 HiFi files as a collection.
+Screenshot below shows the summary report from file 01
+(reports for files 02 and 03 are similar).
+
+![Cutadapt report](../images/cutadapt_report.png)
 
 ---
 
